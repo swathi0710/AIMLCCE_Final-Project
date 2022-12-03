@@ -7,7 +7,7 @@ This tool aims to provide a means to judge the safety of consumable products bas
 It uses a ML classification model to effiently rank the product on a scale of 1 to 5. 5 being the safest.
 
 <h2>Steps to test the tool</h2>
-(http://swathi071094.pythonanywhere.com/ "Click here to open the web service")<br>
+Go to:(http://swathi071094.pythonanywhere.com/)<br>
 1. Copy the ingredient list of the chosen product from any shopping service/ingredient database and click on the
 “Classifier” link.<br>
 OR<br>
