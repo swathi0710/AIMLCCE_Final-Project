@@ -1,13 +1,13 @@
 # AIMLCCE_Final-Project
 <h1>Ingredient Analyser
 for Consumables</h1>
-
-<ul>Description</ul>
+<br>
+<h2>Description</h2>
 This tool aims to provide a means to judge the safety of consumable products based on the additives present in the ingredient list.
 It uses a ML classification model to effiently rank the product on a scale of 1 to 5. 5 being the safest.
 
-<ul>Steps to test the tool</ul>
-[Click here to open the web service](http://swathi071094.pythonanywhere.com/)
+<h2>Steps to test the tool</h2>
+(http://swathi071094.pythonanywhere.com/ "[Click here to open the web service]")
 1. Copy the ingredient list of the chosen product from any shopping service/ingredient database and click on the
 “Classifier” link.
 OR
@@ -16,7 +16,7 @@ link below the table.
 2. Paste the ingredient list in the form box and click classify to see how safe the product is ranked on a scale of 1-5 where 5
 is the safest.
 
-<ul>Stages invovled in the project</ul>
+<h2>Stages invovled in the project</h2>
 
 Data Collection
 A collection of 10000 consumable products with their full ingredient list was obtained.
@@ -42,11 +42,11 @@ A simple flask application is developed to take inputs from the user and provide
 Deploying
 An HTML interface is built and hosted for ease of use.
 
-<ul>Future Scope:</ul>
+<h2>Future Scope:</h2>
 More samples should be collected and more features should be fed to the model to cover more scenarios and increase efficiency.
 A mobile application which scans ingredients using image to text conversion should be built using the existing API.
 
 Authored by:
 Swathi Venugopal
-[mail](mailto:swa094@gmail.com)
+[mail](mailto:swa094@gmail.com "gmail")
 
