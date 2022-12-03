@@ -7,7 +7,7 @@ This tool aims to provide a means to judge the safety of consumable products bas
 It uses a ML classification model to effiently rank the product on a scale of 1 to 5. 5 being the safest.
 
 <h2>Steps to test the tool</h2>
-[Click here to open the web service](http://swathi071094.pythonanywhere.com/ "Click here to open the web service")<br>
+(http://swathi071094.pythonanywhere.com/ "Click here to open the web service")<br>
 1. Copy the ingredient list of the chosen product from any shopping service/ingredient database and click on the
 “Classifier” link.<br>
 OR<br>
@@ -42,7 +42,7 @@ A simple flask application is developed to take inputs from the user and provide
 Deploying:<br>
 An HTML interface is built and hosted for ease of use.
 
-<h2>Future Scope:</h2>:<br>
+<h2>Future Scope:</h2><br>
 More samples should be collected and more features should be fed to the model to cover more scenarios and increase efficiency.
 A mobile application which scans ingredients using image to text conversion should be built using the existing API.
 
